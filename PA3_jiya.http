@@ -1,0 +1,6 @@
+@PA3_jiya_HostAddress = http://localhost:5174
+
+GET {{PA3_jiya_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
